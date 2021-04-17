@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Barry Allen",
+    "alterEgo": "The Flash",
+    "Home": "Central City",
+    "Powers": ["Super Speed"],
+    "wiki": "https://en.wikipedia.org/wiki/Flash_(DC_Comics_character)",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Flash_%28Barry_Allen_circa_2019%29.png"
+  },
+  {
+    "name": "Clark Kent",
+    "alterEgo": "Superman",
+    "Home": "Smallville",
+    "Powers": [
+      "Super Speed",
+      "Ice Breath",
+      "Flight",
+      "Super Strength",
+      "Heat Vision"
+    ],
+    "wiki": "https://en.wikipedia.org/wiki/Superman",
+    "photo": "https://media4.s-nbcnews.com/j/newscms/2019_50/3142271/191210-superman-identity-revealed-al-1531_fa3f2d8fe0e0591b7929906e34807c3e.fit-760w.jpg"
+  }
+]
