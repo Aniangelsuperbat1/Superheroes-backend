@@ -43,24 +43,24 @@
     "photo": "https://esobando.github.io/TheFlash/TheFlashImages/WallyWest.jpg"
   },
   {
-    "name": "Aquaman",
-    "alterEgo": "Arthur Curry",
+    "name": "Arthur Curry",
+    "alterEgo": "Aquaman",
     "Home": "Atlantis",
     "Powers": ["Superhuman strength", "talks to all sea live"],
     "wiki": "https://en.wikipedia.org/wiki/Aquaman",
     "photo": "https://www.dccomics.com/sites/default/files/Char_Gallery_Aquaman_18_6054fd1a65e9e8.77126160.jpg"
   },
   {
-    "name": "Green Lantern",
-    "alterEgo": "Hal Jordan",
+    "name": "Hal Jordan",
+    "alterEgo": "Green Lantern",
     "Home": "Coast City, Earth",
     "Powers": ["energy projection", "energy construct", "force field"],
     "wiki": "https://en.wikipedia.org/wiki/Green_Lantern",
-    "photo": "https://static.wikia.nocookie.net/marvel_dc/images/8/83/Hal_Jordan_and_the_Green_Lantern_Corps_Vol_1_45_Textless_Variant.jpg/revision/latest?cb=20180523193425"
+    "photo": "hhttps://static.tvtropes.org/pmwiki/pub/images/47b42a3e_9f5a_4ff3_b936_3a0d253d7afb.png"
   },
   {
-    "name": "Cyborg",
-    "alterEgo": "Victor Stone",
+    "name": "Victor Stone",
+    "alterEgo": "Cyborg",
     "Home": "Detroit, Michigan",
     "Powers": [
       "superhuman strength",
@@ -73,8 +73,8 @@
     "photo": "https://www.dccomics.com/sites/default/files/imce/2018/08-AUG/Cyborg_v01_r01_5b6c7d7bef1616.90753062.jpg"
   },
   {
-    "name": "Wonderwoman",
-    "alterEgo": "Diana Prince",
+    "name": "Diana Prince",
+    "alterEgo": "Wonderwoman",
     "Home": "Themyscira",
     "Powers": [
       "godlike strength",
@@ -86,8 +86,8 @@
     "photo": "https://www.gannett-cdn.com/-mm-/afd5ee850218d82a9800548997fd0607075a3cbe/c=23-315-2004-2965/local/-/media/USATODAY/USATODAY/2014/06/30/1404161899000-WONDER-WOMAN-36-COMICS-JY-665--65511024.JPG"
   },
   {
-    "name": "Blue Beetle",
-    "alterEgo": "Jaime Reyes",
+    "name": "Jaime Reyes",
+    "alterEgo": "Blue Beetle",
     "Home": " El Paso, Texas",
     "Powers": [
       "Enhanced strength and durability",
@@ -98,5 +98,29 @@
     ],
     "wiki": "https://en.wikipedia.org/wiki/Blue_Beetle",
     "photo": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2018/11/jaime_reyes_blue_beetle.jpg?offset-x=0&offset-y=0"
+  },
+  {
+    "name": "Dick Grayson",
+    "alterEgo": "NightWing",
+    "Home": "Gotham Coty",
+    "Powers": ["Genius Intellect", "Master Combatant"],
+    "wiki": "https://en.wikipedia.org/wiki/Nightwing",
+    "photo": "https://static.wikia.nocookie.net/marvel_dc/images/e/e9/Nightwing_Vol_4_1_Textless_Variant.jpg/revision/latest?cb=20190227005841"
+  },
+  {
+    "name": "J'onn J'onzz",
+    "alterEgo": "Martian Manhunter",
+    "Home": "Mars",
+    "Powers": [],
+    "wiki": "https://en.wikipedia.org/wiki/Martian_Manhunter",
+    "photo": "https://www.writeups.org/wp-content/uploads/Martian-Manhunter-DC-Comics-JSA.jpg"
+  },
+  {
+    "name": "Oliver Queen",
+    "alterEgo": "Green Arrow",
+    "Home": "Starling City",
+    "Powers": ["Peak Physical Conditioning", "Master Combatant", "Master Marksman"],
+    "wiki": "https://en.wikipedia.org/wiki/Green_Arrow",
+    "photo": "https://i.pinimg.com/736x/8f/87/fa/8f87fae4bcbce280791978801b7796f1.jpg"
   }
 ]
