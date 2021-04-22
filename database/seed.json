@@ -62,7 +62,13 @@
     "name": "Cyborg",
     "alterEgo": "Victor Stone",
     "Home": "Detroit, Michigan",
-    "Powers": ["superhuman strength", "speed", "stamina", "flight", "mech suit"],
+    "Powers": [
+      "superhuman strength",
+      "speed",
+      "stamina",
+      "flight",
+      "mech suit"
+    ],
     "wiki": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)",
     "photo": "https://www.dccomics.com/sites/default/files/imce/2018/08-AUG/Cyborg_v01_r01_5b6c7d7bef1616.90753062.jpg"
   },
@@ -70,7 +76,12 @@
     "name": "Wonderwoman",
     "alterEgo": "Diana Prince",
     "Home": "Themyscira",
-    "Powers": ["godlike strength", "invulnerability", "superior fighting abilities", "flight"],
+    "Powers": [
+      "godlike strength",
+      "invulnerability",
+      "superior fighting abilities",
+      "flight"
+    ],
     "wiki": "https://en.wikipedia.org/wiki/Wonder_Woman",
     "photo": "https://www.gannett-cdn.com/-mm-/afd5ee850218d82a9800548997fd0607075a3cbe/c=23-315-2004-2965/local/-/media/USATODAY/USATODAY/2014/06/30/1404161899000-WONDER-WOMAN-36-COMICS-JY-665--65511024.JPG"
   },
@@ -78,152 +89,14 @@
     "name": "Blue Beetle",
     "alterEgo": "Jaime Reyes",
     "Home": " El Paso, Texas",
-    "Powers": ["Enhanced strength and durability", "Flight", "Translation of alien languages", "Energy shield", "Ability to create and unleash powerful hand blasts/beams"],
+    "Powers": [
+      "Enhanced strength and durability",
+      "Flight",
+      "Translation of alien languages",
+      "Energy shield",
+      "Ability to create and unleash powerful hand blasts/beams"
+    ],
     "wiki": "https://en.wikipedia.org/wiki/Blue_Beetle",
     "photo": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2018/11/jaime_reyes_blue_beetle.jpg?offset-x=0&offset-y=0"
-  },
-  {
-    "name": "Constantine",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "Superboy",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
-  },
-  {
-    "name": "",
-    "alterEgo": "",
-    "Home": "",
-    "Powers": [],
-    "wiki": "",
-    "photo": ""
   }
 ]
