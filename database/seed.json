@@ -56,7 +56,7 @@
     "Home": "Coast City, Earth",
     "Powers": ["energy projection", "energy construct", "force field"],
     "wiki": "https://en.wikipedia.org/wiki/Green_Lantern",
-    "photo": "hhttps://static.tvtropes.org/pmwiki/pub/images/47b42a3e_9f5a_4ff3_b936_3a0d253d7afb.png"
+    "photo": "https://static.tvtropes.org/pmwiki/pub/images/47b42a3e_9f5a_4ff3_b936_3a0d253d7afb.png"
   },
   {
     "name": "Victor Stone",
@@ -105,7 +105,7 @@
     "Home": "Gotham Coty",
     "Powers": ["Genius Intellect", "Master Combatant"],
     "wiki": "https://en.wikipedia.org/wiki/Nightwing",
-    "photo": "https://static.wikia.nocookie.net/marvel_dc/images/d/d8/Future_State_Nightwing_Vol_1_1_Textless_Variant.jpg/revision/latest?cb=20210119134121"
+    "photo": "https://cdn2.penguin.com.au/covers/original/9781401291280.jpg"
   },
   {
     "name": "J'onn J'onzz",
