@@ -22,23 +22,68 @@
     "photo": "https://www.avforums.com/styles/avf/editorial/block//5d5d587ae22017406c1b7db829b3fee8_3x3.jpg"
   },
   {
-    "name" : "Bruce Wayne",
+    "name": "Bruce Wayne",
     "alterEgo": "Batman",
     "Home": "Gotham City",
-    "Powers": ["Indomitable Will", "Peak Human Conditioning", "Martial Arts Master", "Genius-Level Intellect"],
+    "Powers": [
+      "Indomitable Will",
+      "Peak Human Conditioning",
+      "Martial Arts Master",
+      "Genius-Level Intellect"
+    ],
     "wiki": "https://en.wikipedia.org/wiki/Batman",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjyjbWeoPNfOBumrbs5B1Hdp14tSEtF9YW2RxNLwNoE2V6C1X6d8FfkJkx62y9rA1KuBY&usqp=CAU"
   },
   {
-    "name" : "Wallace Rudolph 'Wally' West",
+    "name": "Wallace Rudolph 'Wally' West",
     "alterEgo": "Kid Flash/The Flash",
     "Home": "Central City",
     "Powers": ["Super speed"],
-    "wiki": "https://en.wikipedia.org/wiki/Wally_West#:~:text=Wally's%20primary%20superpower%20is%20his,run%20at%20super%2Dhuman%20velocities.",
+    "wiki": "https://en.wikipedia.org/wiki/Wally_West",
     "photo": "https://esobando.github.io/TheFlash/TheFlashImages/WallyWest.jpg"
   },
   {
-    "name" : "",
+    "name": "Aquaman",
+    "alterEgo": "Arthur Curry",
+    "Home": "Atlantis",
+    "Powers": ["Superhuman strength", "talks to all sea live"],
+    "wiki": "https://en.wikipedia.org/wiki/Aquaman",
+    "photo": "https://www.dccomics.com/sites/default/files/Char_Gallery_Aquaman_18_6054fd1a65e9e8.77126160.jpg"
+  },
+  {
+    "name": "Green Lantern",
+    "alterEgo": "Hal Jordan",
+    "Home": "Coast City, Earth",
+    "Powers": ["energy projection", "energy construct", "force field"],
+    "wiki": "https://en.wikipedia.org/wiki/Green_Lantern",
+    "photo": "https://static.wikia.nocookie.net/marvel_dc/images/8/83/Hal_Jordan_and_the_Green_Lantern_Corps_Vol_1_45_Textless_Variant.jpg/revision/latest?cb=20180523193425"
+  },
+  {
+    "name": "Cyborg",
+    "alterEgo": "Victor Stone",
+    "Home": "Detroit, Michigan",
+    "Powers": ["superhuman strength", "speed", "stamina", "flight", "mech suit"],
+    "wiki": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)",
+    "photo": "https://www.dccomics.com/sites/default/files/imce/2018/08-AUG/Cyborg_v01_r01_5b6c7d7bef1616.90753062.jpg"
+  },
+  {
+    "name": "Wonderwoman",
+    "alterEgo": "Diana Prince",
+    "Home": "Themyscira",
+    "Powers": ["godlike strength", "invulnerability", "superior fighting abilities", "flight"],
+    "wiki": "https://en.wikipedia.org/wiki/Wonder_Woman",
+    "photo": "https://www.gannett-cdn.com/-mm-/afd5ee850218d82a9800548997fd0607075a3cbe/c=23-315-2004-2965/local/-/media/USATODAY/USATODAY/2014/06/30/1404161899000-WONDER-WOMAN-36-COMICS-JY-665--65511024.JPG"
+  },
+  {
+    "name": "Blue Beetle",
+    "alterEgo": "Jaime Reyes",
+    "Home": " El Paso, Texas",
+    "Powers": ["Enhanced strength and durability", "Flight", "Translation of alien languages", "Energy shield", "Ability to create and unleash powerful hand blasts/beams"],
+    "wiki": "https://en.wikipedia.org/wiki/Blue_Beetle",
+    "photo": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2018/11/jaime_reyes_blue_beetle.jpg?offset-x=0&offset-y=0"
+  },
+  {
+    "name": "Constantine",
     "alterEgo": "",
     "Home": "",
     "Powers": [],
@@ -46,7 +91,7 @@
     "photo": ""
   },
   {
-        "name" : "",
+    "name": "Superboy",
     "alterEgo": "",
     "Home": "",
     "Powers": [],
@@ -54,7 +99,7 @@
     "photo": ""
   },
   {
-        "name" : "",
+    "name": "",
     "alterEgo": "",
     "Home": "",
     "Powers": [],
@@ -62,7 +107,7 @@
     "photo": ""
   },
   {
-        "name" : "",
+    "name": "",
     "alterEgo": "",
     "Home": "",
     "Powers": [],
@@ -70,7 +115,7 @@
     "photo": ""
   },
   {
-        "name" : "",
+    "name": "",
     "alterEgo": "",
     "Home": "",
     "Powers": [],
@@ -78,7 +123,7 @@
     "photo": ""
   },
   {
-        "name" : "",
+    "name": "",
     "alterEgo": "",
     "Home": "",
     "Powers": [],
@@ -86,7 +131,7 @@
     "photo": ""
   },
   {
-        "name" : "",
+    "name": "",
     "alterEgo": "",
     "Home": "",
     "Powers": [],
@@ -94,7 +139,87 @@
     "photo": ""
   },
   {
-        "name" : "",
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
+    "alterEgo": "",
+    "Home": "",
+    "Powers": [],
+    "wiki": "",
+    "photo": ""
+  },
+  {
+    "name": "",
     "alterEgo": "",
     "Home": "",
     "Powers": [],
