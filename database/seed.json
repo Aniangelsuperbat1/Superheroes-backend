@@ -111,7 +111,7 @@
     "name": "J'onn J'onzz",
     "alterEgo": "Martian Manhunter",
     "Home": "Mars",
-    "Powers": [],
+    "Powers": ["shapeshifting", "intangibility", "invisibility", "telepathy", "telekinesis",
     "wiki": "https://en.wikipedia.org/wiki/Martian_Manhunter",
     "photo": "https://www.writeups.org/wp-content/uploads/Martian-Manhunter-DC-Comics-JSA.jpg"
   },
