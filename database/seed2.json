@@ -1,0 +1,11 @@
+[
+    {
+        "name": "The Joker",
+        "alterEgo": "Arthur Fleck",
+        "Home": "Gotham City",
+        "Powers": ["Insanity"],
+        "wiki": "https://en.wikipedia.org/wiki/Joker_(character)",
+        "photo": "https://static.wikia.nocookie.net/marvel_dc/images/5/5d/Doomsday_Clock_Vol_1_5_Textless_Variant.jpg/revision/latest?cb=20180606215837",
+        "archnemesis": "Batman"
+    }
+]
