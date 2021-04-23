@@ -1,7 +1,7 @@
 [
     {
-        "name": "The Joker",
-        "alterEgo": "Arthur Fleck",
+        "name": "Arthur Fleck",
+        "alterEgo": "The Joker",
         "Home": "Gotham City",
         "Powers": ["Insanity"],
         "wiki": "https://en.wikipedia.org/wiki/Joker_(character)",
@@ -18,8 +18,8 @@
         "archnemesis": "Superman"
     },
     {
-        "name": "DeathStroke",
-        "alterEgo": "Slade Wilson",
+        "name": "Slade Wilson",
+        "alterEgo": "DeathStroke",
         "Home": "California",
         "Powers": ["Artificially Enhanced Physiology"],
         "wiki": "https://en.wikipedia.org/wiki/Deathstroke",
@@ -36,8 +36,8 @@
         "archnemesis": "Superman/Batman"
     },
     {
-        "name": "Captain Cold",
-        "alterEgo": "Leanord Snart",
+        "name": "Leanord Snart",
+        "alterEgo": "Captain Cold",
         "Home": "Central City",
         "Powers": ["Cold gun", "thieve skills"],
         "wiki": "https://en.wikipedia.org/wiki/Captain_Cold",
@@ -45,8 +45,8 @@
         "archnemesis": "Flash"
     },
     {
-        "name": "Bane",
-        "alterEgo": "Antonio Diego",
+        "name": "Antonio Diego",
+        "alterEgo": "Bane",
         "Home": "Santa Prisca",
         "Powers": ["Superhuman Strength", "Venom Usage", "Escapologist", "Peak of Human Physical Condition"],
         "wiki": "https://en.wikipedia.org/wiki/Bane_(DC_Comics)",
@@ -54,8 +54,8 @@
         "archnemesis": "Batman"
     },
     {
-        "name": "Brainiac",
-        "alterEgo": "Vril Dox",
+        "name": "Vril Dox",
+        "alterEgo": "Brainiac",
         "Home": "Krypton",
         "Powers": ["Enhanced Intellect", "Cybernetic Physiology", "Genius Level Intellect", "Telepathy", "Telekinesis"],
         "wiki": "https://en.wikipedia.org/wiki/Brainiac_(character)",
@@ -63,8 +63,8 @@
         "archnemesis": "Superman"
     },
     {
-        "name": "Reverse Flash",
-        "alterEgo": "Eobard Thawne",
+        "name": "Eobard Thawne",
+        "alterEgo": "Reverse Flash",
         "Home": "25th Century",
         "Powers": ["Super Speed", "Negative Speed Force Generation", "Paradoxical Existence"],
         "wiki": "https://en.wikipedia.org/wiki/Eobard_Thawne",
@@ -72,8 +72,8 @@
         "archnemesis": "Flash"
     },
     {
-        "name": "Mr. Freeze",
-        "alterEgo": "Victor Fries",
+        "name": "Victor Fries",
+        "alterEgo": "Mr. Freeze",
         "Home": "Gotham City",
         "Powers": ["Subzero Physiology", "Genius-Level Intellect", "Freeze Gun"],
         "wiki": "https://en.wikipedia.org/wiki/Mr._Freeze",
@@ -81,8 +81,8 @@
         "archnemesis": "Batman"
     },
     {
-        "name": "Superboy Prime",
-        "alterEgo": "Kal-El",
+        "name": "Kal-El",
+        "alterEgo": "Superboy Prime",
         "Home": "Earth-Prime",
         "Powers": ["Kryptonian Physiology", "Superhuman Strength", "Superhuman Speed", "Superhuman Reflexes"],
         "wiki": "https://en.wikipedia.org/wiki/Superboy-Prime",
@@ -99,8 +99,8 @@
         "archnemesis": "Teen Titans"
     },
     {
-        "name": "Deadshot",
-        "alterEgo": "Floyd Lawton",
+        "name": "Floyd Lawton",
+        "alterEgo": "Deadshot",
         "Home": "Gotham City",
         "Powers": ["Expert Marksman", "Master Assassin", "Expert Combatant"],
         "wiki": "https://en.wikipedia.org/wiki/Deadshot",
@@ -108,8 +108,8 @@
         "archnemesis": "Batman"
     },
     {
-        "name": "Black Adam",
-        "alterEgo": "Teth-Adam",
+        "name": "Teth-Adam",
+        "alterEgo": "Black Adam",
         "Home": "Ancient Egypt",
         "Powers": ["S for the Stamina of Shu", "H for the Swiftness of Heru", "A for the Strength of Amon", "Z for the Wisdom of Zehuti", "A for the Power of Aton", "M for the Courage of Mehen", "The Power of Isis"],
         "wiki": "https://en.wikipedia.org/wiki/Black_Adam",
