@@ -5,7 +5,115 @@
         "Home": "Gotham City",
         "Powers": ["Insanity"],
         "wiki": "https://en.wikipedia.org/wiki/Joker_(character)",
-        "photo": "https://static.wikia.nocookie.net/marvel_dc/images/5/5d/Doomsday_Clock_Vol_1_5_Textless_Variant.jpg/revision/latest?cb=20180606215837",
+        "photo": "https://i.pinimg.com/originals/69/46/3d/69463db9e7c43712ee55990b1aa056d2.jpg",
         "archnemesis": "Batman"
+    },
+    {
+        "name": "Lex Luthor",
+        "alterEgo": "Lex Luthor",
+        "Home": "Metropolis",
+        "Powers": ["Genius-level Intelligence", "Skilled Hand-to-Hand Combatant", "master minipulator"],
+        "wiki": "https://en.wikipedia.org/wiki/Lex_Luthor",
+        "photo": "https://static.wikia.nocookie.net/marvel_dc/images/4/4e/Doomsday_Clock_Vol_1_2_Variant_Textless.jpg/revision/latest?cb=20180104222951",
+        "archnemesis": "Superman"
+    },
+    {
+        "name": "DeathStroke",
+        "alterEgo": "Slade Wilson",
+        "Home": "California",
+        "Powers": ["Artificially Enhanced Physiology"],
+        "wiki": "https://en.wikipedia.org/wiki/Deathstroke",
+        "photo": "https://www.dccomics.com/sites/default/files/field/image/Blogroll_DEATHSTROKE-variant-Cv2_5afa4f84d7a977.73410934.jpg",
+        "archnemesis": "Batman"
+    },
+    {
+        "name": "Darkseid",
+        "alterEgo": "DarkSeid",
+        "Home": "Apokolips",
+        "Powers": ["Super strength", "Omega beams"],
+        "wiki": "https://en.wikipedia.org/wiki/Darkseid",
+        "photo": "https://static.wikia.nocookie.net/villains/images/e/e1/Justice_League_Odyssey_Vol_1_21_Textless_Variant.jpg/revision/latest/top-crop/width/360/height/450?cb=20200615135345",
+        "archnemesis": "Superman/Batman"
+    },
+    {
+        "name": "Captain Cold",
+        "alterEgo": "Leanord Snart",
+        "Home": "Central City",
+        "Powers": ["Cold gun", "thieve skills"],
+        "wiki": "https://en.wikipedia.org/wiki/Captain_Cold",
+        "photo": "https://comicvine1.cbsistatic.com/uploads/scale_medium/10/100647/6436322-7e19d32dbbf4d92a964a4f67b0820bb8.jpg",
+        "archnemesis": "Flash"
+    },
+    {
+        "name": "Bane",
+        "alterEgo": "Antonio Diego",
+        "Home": "Santa Prisca",
+        "Powers": ["Superhuman Strength", "Venom Usage", "Escapologist", "Peak of Human Physical Condition"],
+        "wiki": "https://en.wikipedia.org/wiki/Bane_(DC_Comics)",
+        "photo": "",
+        "archnemesis": ""
+    },
+    {
+        "name": "Brainiac",
+        "alterEgo": "",
+        "Home": "",
+        "Powers": [],
+        "wiki": "",
+        "photo": "",
+        "archnemesis": ""
+    },
+    {
+        "name": "Reverse Flash",
+        "alterEgo": "",
+        "Home": "",
+        "Powers": [],
+        "wiki": "",
+        "photo": "",
+        "archnemesis": ""
+    },
+    {
+        "name": "Mr. Freeze",
+        "alterEgo": "",
+        "Home": "",
+        "Powers": [],
+        "wiki": "",
+        "photo": "",
+        "archnemesis": ""
+    },
+    {
+        "name": "Superboy Prime",
+        "alterEgo": "",
+        "Home": "",
+        "Powers": [],
+        "wiki": "",
+        "photo": "",
+        "archnemesis": ""
+    },
+    {
+        "name": "Trigon",
+        "alterEgo": "",
+        "Home": "",
+        "Powers": [],
+        "wiki": "",
+        "photo": "",
+        "archnemesis": ""
+    },
+    {
+        "name": "Deadshot",
+        "alterEgo": "",
+        "Home": "",
+        "Powers": [],
+        "wiki": "",
+        "photo": "",
+        "archnemesis": ""
+    },
+    {
+        "name": "Black Adam",
+        "alterEgo": "",
+        "Home": "",
+        "Powers": [],
+        "wiki": "",
+        "photo": "",
+        "archnemesis": ""
     }
 ]
