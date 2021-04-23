@@ -50,70 +50,70 @@
         "Home": "Santa Prisca",
         "Powers": ["Superhuman Strength", "Venom Usage", "Escapologist", "Peak of Human Physical Condition"],
         "wiki": "https://en.wikipedia.org/wiki/Bane_(DC_Comics)",
-        "photo": "",
-        "archnemesis": ""
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB0Ni0XnalrgfsgGSbskpm4trnMXbMd63j4w&usqp=CAU",
+        "archnemesis": "Batman"
     },
     {
         "name": "Brainiac",
-        "alterEgo": "",
-        "Home": "",
-        "Powers": [],
-        "wiki": "",
-        "photo": "",
-        "archnemesis": ""
+        "alterEgo": "Vril Dox",
+        "Home": "Krypton",
+        "Powers": ["Enhanced Intellect", "Cybernetic Physiology", "Genius Level Intellect", "Telepathy", "Telekinesis"],
+        "wiki": "https://en.wikipedia.org/wiki/Brainiac_(character)",
+        "photo": "https://static.wikia.nocookie.net/earth279527/images/2/28/Brainiac.jpg/revision/latest/top-crop/width/360/height/450?cb=20170531221734",
+        "archnemesis": "Superman"
     },
     {
         "name": "Reverse Flash",
-        "alterEgo": "",
-        "Home": "",
-        "Powers": [],
-        "wiki": "",
-        "photo": "",
-        "archnemesis": ""
+        "alterEgo": "Eobard Thawne",
+        "Home": "25th Century",
+        "Powers": ["Super Speed", "Negative Speed Force Generation", "Paradoxical Existence"],
+        "wiki": "https://en.wikipedia.org/wiki/Eobard_Thawne",
+        "photo": "http://dccontinuityproject.weebly.com/uploads/5/4/5/1/54516433/published/146494030.jpg?1502422930",
+        "archnemesis": "Flash"
     },
     {
         "name": "Mr. Freeze",
-        "alterEgo": "",
-        "Home": "",
-        "Powers": [],
-        "wiki": "",
-        "photo": "",
-        "archnemesis": ""
+        "alterEgo": "Victor Fries",
+        "Home": "Gotham City",
+        "Powers": ["Subzero Physiology", "Genius-Level Intellect", "Freeze Gun"],
+        "wiki": "https://en.wikipedia.org/wiki/Mr._Freeze",
+        "photo": "https://brobible.com/wp-content/uploads/2019/12/mr-freeze.jpg",
+        "archnemesis": "Batman"
     },
     {
         "name": "Superboy Prime",
-        "alterEgo": "",
-        "Home": "",
-        "Powers": [],
-        "wiki": "",
-        "photo": "",
-        "archnemesis": ""
+        "alterEgo": "Kal-El",
+        "Home": "Earth-Prime",
+        "Powers": ["Kryptonian Physiology", "Superhuman Strength", "Superhuman Speed", "Superhuman Reflexes"],
+        "wiki": "https://en.wikipedia.org/wiki/Superboy-Prime",
+        "photo": "https://comicvine1.cbsistatic.com/uploads/original/6/68065/7613223-0bbbbc.jpg",
+        "archnemesis": "Superman"
     },
     {
         "name": "Trigon",
-        "alterEgo": "",
-        "Home": "",
-        "Powers": [],
-        "wiki": "",
-        "photo": "",
-        "archnemesis": ""
+        "alterEgo": "Trigon",
+        "Home": "unknown( extra-dimensional origin)",
+        "Powers": ["Demonic Physiology", "Telekinesis", "Telepathy", "Invulnerability"],
+        "wiki": "https://en.wikipedia.org/wiki/Trigon_(comics)",
+        "photo": "https://static.comicvine.com/uploads/original/6/66303/2644299-screen_shot_2012_10_12_at_8.04.32_pm.png",
+        "archnemesis": "Teen Titans"
     },
     {
         "name": "Deadshot",
-        "alterEgo": "",
-        "Home": "",
-        "Powers": [],
-        "wiki": "",
-        "photo": "",
-        "archnemesis": ""
+        "alterEgo": "Floyd Lawton",
+        "Home": "Gotham City",
+        "Powers": ["Expert Marksman", "Master Assassin", "Expert Combatant"],
+        "wiki": "https://en.wikipedia.org/wiki/Deadshot",
+        "photo": "https://comicvine1.cbsistatic.com/uploads/scale_medium/12/124259/7644356-apr200604.jpg",
+        "archnemesis": "Batman"
     },
     {
         "name": "Black Adam",
-        "alterEgo": "",
-        "Home": "",
-        "Powers": [],
-        "wiki": "",
-        "photo": "",
-        "archnemesis": ""
+        "alterEgo": "Teth-Adam",
+        "Home": "Ancient Egypt",
+        "Powers": ["S for the Stamina of Shu", "H for the Swiftness of Heru", "A for the Strength of Amon", "Z for the Wisdom of Zehuti", "A for the Power of Aton", "M for the Courage of Mehen", "The Power of Isis"],
+        "wiki": "https://en.wikipedia.org/wiki/Black_Adam",
+        "photo": "https://static.wikia.nocookie.net/shazam/images/7/7c/Justice_League_of_America_Vol_3-7.4_Cover-1_Teaser.jpg/revision/latest/scale-to-width-down/1000?cb=20130615213645",
+        "archnemesis": "Captain Marvel"
     }
 ]
