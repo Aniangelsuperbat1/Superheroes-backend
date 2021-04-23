@@ -10,5 +10,5 @@ const VillainSchema = new mongoose.Schema({
   archNemesis: String
 });
 
-const Villain = mongoose.model("Superhero", VillainSchema);
+const Villain = mongoose.model("Villain", VillainSchema);
 module.exports = Villain;
