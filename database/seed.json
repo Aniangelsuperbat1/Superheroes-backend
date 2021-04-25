@@ -130,5 +130,13 @@
     "Powers": ["Super Speed"],
     "wiki": "https://en.wikipedia.org/wiki/Bart_Allen",
     "photo": "https://upload.wikimedia.org/wikipedia/en/7/76/Bart_Allen_Young_Justice_Vol_3_1.png"
+  },
+  {
+    "name": "Zatanna Zatara",
+    "alterEgo": "Zatanna",
+    "Home": "New York",
+    "Powers": ["Magic", "Prestidigitation"],
+    "wiki": "https://en.wikipedia.org/wiki/Zatanna",
+    "photo": "https://i.pinimg.com/736x/f9/95/59/f99559246a084351bd3f3ca82b949a60.jpg"
   }
 ]
