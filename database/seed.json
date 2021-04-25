@@ -138,5 +138,13 @@
     "Powers": ["Magic", "Prestidigitation"],
     "wiki": "https://en.wikipedia.org/wiki/Zatanna",
     "photo": "https://i.pinimg.com/736x/f9/95/59/f99559246a084351bd3f3ca82b949a60.jpg"
+  },
+  {
+    "name": "Kara Zor-El",
+    "alterEgo": "Supergirl",
+    "Home": "Krypton",
+    "Powers": ["Flight", "Super strength", "Heat vision", "Ice Breath"],
+    "wiki": "https://en.wikipedia.org/wiki/Supergirl",
+    "photo": "https://i.pinimg.com/originals/23/c2/3d/23c23d72473cdff179992ff1d6388b6f.jpg"
   }
 ]
