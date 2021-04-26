@@ -6,7 +6,9 @@ const SuperheroSchema = new mongoose.Schema({
     Home: String,
     Powers: [String],
     wiki: String,
-    photo: String
+    photo: String,
+    universe: String,
+    status: String
 })
 
 const Superhero = mongoose.model("Superhero", SuperheroSchema)

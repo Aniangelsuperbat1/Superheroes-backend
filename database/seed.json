@@ -111,7 +111,13 @@
     "name": "J'onn J'onzz",
     "alterEgo": "Martian Manhunter",
     "Home": "Mars",
-    "Powers": ["shapeshifting", "intangibility", "invisibility", "telepathy", "telekinesis"],
+    "Powers": [
+      "shapeshifting",
+      "intangibility",
+      "invisibility",
+      "telepathy",
+      "telekinesis"
+    ],
     "wiki": "https://en.wikipedia.org/wiki/Martian_Manhunter",
     "photo": "https://www.writeups.org/wp-content/uploads/Martian-Manhunter-DC-Comics-JSA.jpg"
   },
@@ -119,7 +125,11 @@
     "name": "Oliver Queen",
     "alterEgo": "Green Arrow",
     "Home": "Starling City",
-    "Powers": ["Peak Physical Conditioning", "Master Combatant", "Master Marksman"],
+    "Powers": [
+      "Peak Physical Conditioning",
+      "Master Combatant",
+      "Master Marksman"
+    ],
     "wiki": "https://en.wikipedia.org/wiki/Green_Arrow",
     "photo": "https://i.pinimg.com/736x/8f/87/fa/8f87fae4bcbce280791978801b7796f1.jpg"
   },
@@ -146,5 +156,16 @@
     "Powers": ["Flight", "Super strength", "Heat vision", "Ice Breath"],
     "wiki": "https://en.wikipedia.org/wiki/Supergirl",
     "photo": "https://i.pinimg.com/originals/23/c2/3d/23c23d72473cdff179992ff1d6388b6f.jpg"
+  },
+  {
+    "name": "Arthur Fleck",
+    "alterEgo": "The Joker",
+    "Home": "Gotham City",
+    "Powers": ["Insanity"],
+    "wiki": "https://en.wikipedia.org/wiki/Joker_(character)",
+    "photo": "https://i.pinimg.com/originals/69/46/3d/69463db9e7c43712ee55990b1aa056d2.jpg",
+    "archnemesis": "Batman",
+    "universe": "DC",
+    "status": "Villain"
   }
 ]
