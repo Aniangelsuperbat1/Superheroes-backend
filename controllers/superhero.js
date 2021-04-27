@@ -46,7 +46,7 @@ router.get("/Marvel/heroes", (req, res, next) => {
 
 router.get("/Marvel/villains", (req, res, next) => {
   superhero
-    .find({ status: "villain", universe: "Marvel" })
+    .find({ status: "Villain", universe: "Marvel" })
     .then((hero) => {
       res.json(hero);
     })
