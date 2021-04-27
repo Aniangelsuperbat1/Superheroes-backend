@@ -366,5 +366,15 @@
     "archnemesis": "Captain Marvel",
     "universe": "DC",
     "status": "Villain"
+  },
+  {
+    "name": "Iron man",
+    "alterEgo": "Anthony Edward Stark",
+    "Home": "Manhattan, Ne York",
+    "Powers": ["Genius", "Mech Suit"],
+    "wiki": "https://en.wikipedia.org/wiki/Iron_Man",
+    "photo": "https://static.tvtropes.org/pmwiki/pub/images/invincible_iron_man_vol_2_7_fried_pie_variant_textless.jpg",
+    "universe": "Marvel",
+    "status": "Hero"
   }
 ]
