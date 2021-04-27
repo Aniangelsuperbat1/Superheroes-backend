@@ -2,7 +2,6 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 const superheroController = require("./controllers/superhero")
-const villainController = require("./controllers/villain")
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));

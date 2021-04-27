@@ -1,7 +1,5 @@
 const seed = require("./seed.json");
 const superhero = require("../Models/Superhero");
-const Villain = require("../Models/Villain");
-const seed2 = require("./seed2.json");
 
 superhero.deleteMany({}).then(() => {
   superhero
@@ -12,10 +10,3 @@ superhero.deleteMany({}).then(() => {
     })
     .catch(console.error);
 });
-
-// Villain.deleteMany({}).then(() => {
-//   Villain.insertMany(seed2).then((villain) => {
-//     console.log(villain);
-//     process.exit;
-//   });
-// });
