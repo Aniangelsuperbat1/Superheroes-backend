@@ -376,5 +376,15 @@
     "photo": "https://static.tvtropes.org/pmwiki/pub/images/invincible_iron_man_vol_2_7_fried_pie_variant_textless.jpg",
     "universe": "Marvel",
     "status": "Hero"
+  },
+  {
+    "name": "Thanos",
+    "alterEgo": "The Dark Lord",
+    "Home": "Titan",
+    "Powers": ["Super Strength", "Being extremely purple"],
+    "wiki": "https://en.wikipedia.org/wiki/Thanos",
+    "photo": "http://pm1.narvii.com/6973/7850cc080f12def880ab1623aea2c85eebde158ar1-560-736v2_uhq.jpg",
+    "universe": "Marvel",
+    "status": "Villain"
   }
 ]
