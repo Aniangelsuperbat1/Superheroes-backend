@@ -9,7 +9,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 app.use("/", superheroController)
-app.use("/", villainController)
 
 app.set("port", process.env.PORT || 4000);
 
