@@ -5,7 +5,9 @@
     "Home": "Central City",
     "Powers": ["Super Speed"],
     "wiki": "https://en.wikipedia.org/wiki/Flash_(DC_Comics_character)",
-    "photo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Flash_%28Barry_Allen_circa_2019%29.png"
+    "photo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Flash_%28Barry_Allen_circa_2019%29.png",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Clark Kent",
@@ -19,7 +21,9 @@
       "Heat Vision"
     ],
     "wiki": "https://en.wikipedia.org/wiki/Superman",
-    "photo": "https://www.avforums.com/styles/avf/editorial/block//5d5d587ae22017406c1b7db829b3fee8_3x3.jpg"
+    "photo": "https://www.avforums.com/styles/avf/editorial/block//5d5d587ae22017406c1b7db829b3fee8_3x3.jpg",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Bruce Wayne",
@@ -32,7 +36,9 @@
       "Genius-Level Intellect"
     ],
     "wiki": "https://en.wikipedia.org/wiki/Batman",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjyjbWeoPNfOBumrbs5B1Hdp14tSEtF9YW2RxNLwNoE2V6C1X6d8FfkJkx62y9rA1KuBY&usqp=CAU"
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjyjbWeoPNfOBumrbs5B1Hdp14tSEtF9YW2RxNLwNoE2V6C1X6d8FfkJkx62y9rA1KuBY&usqp=CAU",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Wallace Rudolph 'Wally' West",
@@ -40,7 +46,9 @@
     "Home": "Central City",
     "Powers": ["Super speed"],
     "wiki": "https://en.wikipedia.org/wiki/Wally_West",
-    "photo": "https://esobando.github.io/TheFlash/TheFlashImages/WallyWest.jpg"
+    "photo": "https://esobando.github.io/TheFlash/TheFlashImages/WallyWest.jpg",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Arthur Curry",
@@ -48,7 +56,9 @@
     "Home": "Atlantis",
     "Powers": ["Superhuman strength", "talks to all sea live"],
     "wiki": "https://en.wikipedia.org/wiki/Aquaman",
-    "photo": "https://www.dccomics.com/sites/default/files/Char_Gallery_Aquaman_18_6054fd1a65e9e8.77126160.jpg"
+    "photo": "https://www.dccomics.com/sites/default/files/Char_Gallery_Aquaman_18_6054fd1a65e9e8.77126160.jpg",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Hal Jordan",
@@ -56,7 +66,9 @@
     "Home": "Coast City, Earth",
     "Powers": ["energy projection", "energy construct", "force field"],
     "wiki": "https://en.wikipedia.org/wiki/Green_Lantern",
-    "photo": "https://static.tvtropes.org/pmwiki/pub/images/47b42a3e_9f5a_4ff3_b936_3a0d253d7afb.png"
+    "photo": "https://static.tvtropes.org/pmwiki/pub/images/47b42a3e_9f5a_4ff3_b936_3a0d253d7afb.png",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Victor Stone",
@@ -70,7 +82,9 @@
       "mech suit"
     ],
     "wiki": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)",
-    "photo": "https://www.dccomics.com/sites/default/files/imce/2018/08-AUG/Cyborg_v01_r01_5b6c7d7bef1616.90753062.jpg"
+    "photo": "https://www.dccomics.com/sites/default/files/imce/2018/08-AUG/Cyborg_v01_r01_5b6c7d7bef1616.90753062.jpg",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Diana Prince",
@@ -83,7 +97,9 @@
       "flight"
     ],
     "wiki": "https://en.wikipedia.org/wiki/Wonder_Woman",
-    "photo": "https://www.gannett-cdn.com/-mm-/afd5ee850218d82a9800548997fd0607075a3cbe/c=23-315-2004-2965/local/-/media/USATODAY/USATODAY/2014/06/30/1404161899000-WONDER-WOMAN-36-COMICS-JY-665--65511024.JPG"
+    "photo": "https://www.gannett-cdn.com/-mm-/afd5ee850218d82a9800548997fd0607075a3cbe/c=23-315-2004-2965/local/-/media/USATODAY/USATODAY/2014/06/30/1404161899000-WONDER-WOMAN-36-COMICS-JY-665--65511024.JPG",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Jaime Reyes",
@@ -97,7 +113,9 @@
       "Ability to create and unleash powerful hand blasts/beams"
     ],
     "wiki": "https://en.wikipedia.org/wiki/Blue_Beetle",
-    "photo": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2018/11/jaime_reyes_blue_beetle.jpg?offset-x=0&offset-y=0"
+    "photo": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2018/11/jaime_reyes_blue_beetle.jpg?offset-x=0&offset-y=0",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Dick Grayson",
@@ -105,7 +123,9 @@
     "Home": "Gotham Coty",
     "Powers": ["Genius Intellect", "Master Combatant"],
     "wiki": "https://en.wikipedia.org/wiki/Nightwing",
-    "photo": "https://cdn2.penguin.com.au/covers/original/9781401291280.jpg"
+    "photo": "https://cdn2.penguin.com.au/covers/original/9781401291280.jpg",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "J'onn J'onzz",
@@ -119,7 +139,9 @@
       "telekinesis"
     ],
     "wiki": "https://en.wikipedia.org/wiki/Martian_Manhunter",
-    "photo": "https://www.writeups.org/wp-content/uploads/Martian-Manhunter-DC-Comics-JSA.jpg"
+    "photo": "https://www.writeups.org/wp-content/uploads/Martian-Manhunter-DC-Comics-JSA.jpg",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Oliver Queen",
@@ -131,7 +153,9 @@
       "Master Marksman"
     ],
     "wiki": "https://en.wikipedia.org/wiki/Green_Arrow",
-    "photo": "https://i.pinimg.com/736x/8f/87/fa/8f87fae4bcbce280791978801b7796f1.jpg"
+    "photo": "https://i.pinimg.com/736x/8f/87/fa/8f87fae4bcbce280791978801b7796f1.jpg",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Bartholomew Allen",
@@ -139,7 +163,9 @@
     "Home": "30th Century Cental City",
     "Powers": ["Super Speed"],
     "wiki": "https://en.wikipedia.org/wiki/Bart_Allen",
-    "photo": "https://upload.wikimedia.org/wikipedia/en/7/76/Bart_Allen_Young_Justice_Vol_3_1.png"
+    "photo": "https://upload.wikimedia.org/wikipedia/en/7/76/Bart_Allen_Young_Justice_Vol_3_1.png",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Zatanna Zatara",
@@ -147,7 +173,9 @@
     "Home": "New York",
     "Powers": ["Magic", "Prestidigitation"],
     "wiki": "https://en.wikipedia.org/wiki/Zatanna",
-    "photo": "https://i.pinimg.com/736x/f9/95/59/f99559246a084351bd3f3ca82b949a60.jpg"
+    "photo": "https://i.pinimg.com/736x/f9/95/59/f99559246a084351bd3f3ca82b949a60.jpg",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Kara Zor-El",
@@ -155,7 +183,9 @@
     "Home": "Krypton",
     "Powers": ["Flight", "Super strength", "Heat vision", "Ice Breath"],
     "wiki": "https://en.wikipedia.org/wiki/Supergirl",
-    "photo": "https://i.pinimg.com/originals/23/c2/3d/23c23d72473cdff179992ff1d6388b6f.jpg"
+    "photo": "https://i.pinimg.com/originals/23/c2/3d/23c23d72473cdff179992ff1d6388b6f.jpg",
+    "universe": "DC",
+    "status": "Hero"
   },
   {
     "name": "Arthur Fleck",
