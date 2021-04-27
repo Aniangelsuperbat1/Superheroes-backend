@@ -13,9 +13,9 @@ superhero.deleteMany({}).then(() => {
     .catch(console.error);
 });
 
-Villain.deleteMany({}).then(() => {
-  Villain.insertMany(seed2).then((villain) => {
-    console.log(villain);
-    process.exit;
-  });
-});
+// Villain.deleteMany({}).then(() => {
+//   Villain.insertMany(seed2).then((villain) => {
+//     console.log(villain);
+//     process.exit;
+//   });
+// });
