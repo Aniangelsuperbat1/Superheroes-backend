@@ -368,8 +368,8 @@
     "status": "Villain"
   },
   {
-    "name": "Iron man",
-    "alterEgo": "Anthony Edward Stark",
+    "name": "Anthony Edward Stark",
+    "alterEgo": "Iron man",
     "Home": "Manhattan, Ne York",
     "Powers": ["Genius", "Mech Suit"],
     "wiki": "https://en.wikipedia.org/wiki/Iron_Man",
@@ -378,12 +378,32 @@
     "status": "Hero"
   },
   {
-    "name": "Thanos",
-    "alterEgo": "The Dark Lord",
+    "name": "The Dark Lord",
+    "alterEgo": "Thanos",
     "Home": "Titan",
     "Powers": ["Super Strength", "Being extremely purple"],
     "wiki": "https://en.wikipedia.org/wiki/Thanos",
     "photo": "http://pm1.narvii.com/6973/7850cc080f12def880ab1623aea2c85eebde158ar1-560-736v2_uhq.jpg",
+    "universe": "Marvel",
+    "status": "Villain"
+  },
+  {
+    "name": "Thor, Son of Odin",
+    "alterEgo": "Thor",
+    "Home": "Asgard",
+    "Powers": ["Mjolnir", "Strength of the gods", "superhuman strength", "superhuman agility", "superhuman speed"],
+    "wiki": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)",
+    "Photo": "https://crushingkrisis.com/assets/Thor-2008-0008-promo.jpg",
+    "universe": "Marvel",
+    "status": "Hero"
+  },
+  {
+    "name": "Loki, son of Odin",
+    "alterEgo": "Loki",
+    "Home": "Asgard",
+    "Powers": ["Trickster God", "sorcerer", "shape-shifting", "telekinesis"],
+    "wiki": "https://en.wikipedia.org/wiki/Loki_(comics)",
+    "Photo": "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNDgxMTc4ODM4Mzc2/son-of-secrets-prince-of-lies-a-guide-to-modern-marvel-loki.jpg",
     "universe": "Marvel",
     "status": "Villain"
   }
