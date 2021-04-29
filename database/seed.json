@@ -406,5 +406,15 @@
     "Photo": "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNDgxMTc4ODM4Mzc2/son-of-secrets-prince-of-lies-a-guide-to-modern-marvel-loki.jpg",
     "universe": "Marvel",
     "status": "Villain"
+  },
+  {
+    "name": "Steve Rogers",
+    "alterEgo": "Captain America",
+    "Home": "Brooklyn, NY",
+    "Powers": ["Super Strength", "Enhanced physiology", "indestrucible vibranium shield", "Heart"],
+    "wiki": "https://en.wikipedia.org/wiki/Captain_America",
+    "Photo": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
+    "universe": "Marvel",
+    "status": "Hero"
   }
 ]
