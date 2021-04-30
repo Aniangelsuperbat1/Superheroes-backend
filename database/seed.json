@@ -393,7 +393,7 @@
     "Home": "Asgard",
     "Powers": ["Mjolnir", "Strength of the gods", "superhuman strength", "superhuman agility", "superhuman speed"],
     "wiki": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)",
-    "Photo": "https://crushingkrisis.com/assets/Thor-2008-0008-promo.jpg",
+    "photo": "https://crushingkrisis.com/assets/Thor-2008-0008-promo.jpg",
     "universe": "Marvel",
     "status": "Hero"
   },
@@ -403,7 +403,7 @@
     "Home": "Asgard",
     "Powers": ["Trickster God", "sorcerer", "shape-shifting", "telekinesis"],
     "wiki": "https://en.wikipedia.org/wiki/Loki_(comics)",
-    "Photo": "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNDgxMTc4ODM4Mzc2/son-of-secrets-prince-of-lies-a-guide-to-modern-marvel-loki.jpg",
+    "[hoto": "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNDgxMTc4ODM4Mzc2/son-of-secrets-prince-of-lies-a-guide-to-modern-marvel-loki.jpg",
     "universe": "Marvel",
     "status": "Villain"
   },
@@ -413,7 +413,7 @@
     "Home": "Brooklyn, NY",
     "Powers": ["Super Strength", "Enhanced physiology", "indestrucible vibranium shield", "Heart"],
     "wiki": "https://en.wikipedia.org/wiki/Captain_America",
-    "Photo": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
+    "photo": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
     "universe": "Marvel",
     "status": "Hero"
   },
@@ -423,7 +423,7 @@
     "Home": "Queens, NY",
     "Powers": ["Super strength", "Spidey sense", "Wall-Crawling", "spiderwebs"],
     "wiki": "https://en.wikipedia.org/wiki/Spider-Man",
-    "Photo": "https://cdn.cnn.com/cnnnext/dam/assets/201109152254-marvels-spiderman-review-lead-super-169.jpg",
+    "photo": "https://cdn.cnn.com/cnnnext/dam/assets/201109152254-marvels-spiderman-review-lead-super-169.jpg",
     "universe": "Marvel",
     "status": "Hero"
   }
