@@ -403,7 +403,7 @@
     "Home": "Asgard",
     "Powers": ["Trickster God", "sorcerer", "shape-shifting", "telekinesis"],
     "wiki": "https://en.wikipedia.org/wiki/Loki_(comics)",
-    "[hoto": "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNDgxMTc4ODM4Mzc2/son-of-secrets-prince-of-lies-a-guide-to-modern-marvel-loki.jpg",
+    "photo": "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNDgxMTc4ODM4Mzc2/son-of-secrets-prince-of-lies-a-guide-to-modern-marvel-loki.jpg",
     "universe": "Marvel",
     "status": "Villain"
   },
@@ -424,6 +424,16 @@
     "Powers": ["Super strength", "Spidey sense", "Wall-Crawling", "spiderwebs"],
     "wiki": "https://en.wikipedia.org/wiki/Spider-Man",
     "photo": "https://cdn.cnn.com/cnnnext/dam/assets/201109152254-marvels-spiderman-review-lead-super-169.jpg",
+    "universe": "Marvel",
+    "status": "Hero"
+  },
+  {
+    "name": "Brother Hand",
+    "alterEgo": "Shang-Chi",
+    "Home": "New York",
+    "Powers": ["Supreme Hand-to-Hand Combatant", "martial arts master"],
+    "wiki": "https://en.wikipedia.org/wiki/Shang-Chi",
+    "photo": "https://fastly.syfy.com/sites/syfy/files/2020/08/shang-hero.jpg",
     "universe": "Marvel",
     "status": "Hero"
   }
