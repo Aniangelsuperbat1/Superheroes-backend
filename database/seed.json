@@ -436,5 +436,15 @@
     "photo": "https://fastly.syfy.com/sites/syfy/files/2020/08/shang-hero.jpg",
     "universe": "Marvel",
     "status": "Hero"
+  },
+  {
+    "name": "Doctor Victor Von Doom",
+    "alterEgo": "Doctor Doom",
+    "Home": "Latveria",
+    "Powers": ["Genius-level intellect", "Psionics: Technopathy. Mind transference. Telekinesis. Power Negation", "Energy absorption and projection, teleportation and demonic summoning via dark mysticism and sorcery."],
+    "wiki": "https://en.wikipedia.org/wiki/Doctor_Doom",
+    "photo": "https://i.redd.it/j93c9krkd4u51.jpg",
+    "universe": "Marvel",
+    "status": "Villain"
   }
 ]
